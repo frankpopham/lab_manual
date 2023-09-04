@@ -1,0 +1,21 @@
+# Writing Code {.unnumbered}
+
+### The Big Picture
+
+[Good Coding Practices for Data Analysts](https://www.heatherturner.net/talks/nhs-r2022)
+
+### The Bare Minimum
+[Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+
+### Learning R
+
+[R for Data Science](https://r4ds.hadley.nz/)
+
+[Modern Data Science](https://mdsr-book.github.io/mdsr3e/)
+
+### Workflow & Troubleshooting
+
+[What They Forgot to Teach You About R](https://rstats.wtf/)
+
+### Version Control
+[How to use git](https://happygitwithr.com/)

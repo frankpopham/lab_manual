@@ -1,0 +1,47 @@
+# People {.unnumbered}
+
+### Public Health Intelligence Team
+Corri Black, Director, Aberdeen Centre Health Data Science  
+Jessica Butler, Lead Data Scientist  
+Frank Popham, Senior Data Scientist  
+Andrea Canale, Senior Data Engineer  
+Richard Slessor, Senior Analyst  
+Pamela Lowbridge, Senior Analyst  
+Andrea Gilmartin, Researcher  
+Jacqueline Bell, Researcher  
+Project Manager
+
+### University of Aberdeen Team
+Corri Black, Director,  Aberdeen Centre Health Data Science  
+Sharon Gordon, Coordinator, Aberdeen Centre Health Data Science   
+Kate O'Sullivan, Lead, Grampian Data Safe Haven  
+Michael Lackenby, Analyst, Grampian Data Safe Haven  
+Raul X-Y, Research Fellow  
+Will Ball, Research Fellow, now at Robert Gordon University  
+Dimitra Blana, Lecturer  
+Gail Mew, Administrator
+
+### Health Foundation Team
+Charles Tallack, Director of Data Analytics 
+Kathryn Marszalek, Senior Analytical Manager  
+Hannah Knight, Senior Analytical Manager  
+Cham
+Zoe Ruziczka, Programme Officer 
+
+### Health Intelligence Team
+Jillian Evans, Head of Health Intelligence  
+Craig Paterson, Head of Digital   
+Elaine Thompson   
+Adam Gatcombe  
+Greg Cook  
+Payal Narula  
+
+## Aberdeen City Council Team
+Martin Murchie, Chief Officer (Data and Insights)  
+Caroline Anderson, Information and Data Manager  
+Helen?, Project Manager  
+
+## Public Health Team
+Shantini Paranjothy, Consultant  
+Paul Southworth, Consultant  
+Peter  

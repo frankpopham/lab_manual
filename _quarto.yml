@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: book
+
+book:
+  title: "Grampian Networked Data Lab"
+  author: 
+    - Jess Butler, Lead Data Scientist
+    - Whoever else
+  #date: "04/08/2023"
+  chapters:
+    - index.qmd
+    - project.qmd
+    - workflow.qmd
+    - data_sources.qmd
+    - code.qmd
+    - research.qmd
+    - people.qmd
+    - peer_groups.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+number-depth: 1
+search: true
+cover-image: isaac-smith-6EnTPvPPL6I-unsplash.jpg

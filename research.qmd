@@ -1,0 +1,57 @@
+# Designing Analysis {.unnumbered}
+
+### What is the analysis question?
+
+Be very clear about the goal of the analysis. Do you want to [describe, predict, or explain?](https://www.tandfonline.com/doi/full/10.1080/09332480.2019.1579578)  
+
+Explictly state the [target measures for estimation](https://www.ema.europa.eu/en/documents/scientific-guideline/ich-e9-r1-addendum-estimands-sensitivity-analysis-clinical-trials-guideline-statistical-principles_en.pdf). What is the population of interest? Who should be being compared? What conditions or outcomes are important? Which summary measures should be reported (difference in proportions, risk ratio, risk difference, conditional or marginal effect)? How should events affecting the interpretation (missing data, loss-to-follow-up, death, service changes) be handled? 
+
+Then measure how the available data differ from the data required. Do we have the data for the target population? For the desired outcomes? How might the data we have be biased? How will this be accomodated in the research?
+
+Draw the underlying premises in terms of a directed acyclic graph, or  [DAG](https://sites.bu.edu/causal/dags/dag-resources/)
+
+
+[The British Medical Journal's advice for avoiding analytical errors](https://www.bmj.com/content/379/bmj-2022-072883)
+
+### Design the tables and figures
+
+Before data are accessed, draw up the exact format of the analysis output. Create tables with headings and row descriptions, and graphs with labeled axes and descriptions. This is helpful to ensure the estimands have been stated sufficiently clearly.
+
+### Write pseudocode
+
+Outline the code needed to create the tables and figures as designed.
+
+### Work reproducibly
+
+Automate 
+
+### Publish code and analysis
+
+We default to open - per NHS Guidelines
+Include the code as part of the output
+Get a DOI for the output
+Archive the project in place X
+
+### Go back to your stakeholders
+
+Present your analysis in person  
+Show one table or graph per slide  
+Put the conclusion as the slide title  
+As what surprises the audience about the analysis
+
+
+### An Honest Plan
+
+From Richard McElreath's [An honest plan for modest research](https://elevanth.org/blog/2023/06/13/science-and-the-dumpster-fire/)
+
+> ONE. What are we even trying to learn? Too much research nominates some big problem, finds some data that is metaphorical related to it, computes some (adjusted) associations, then tells a story about the significant results. Along the way, it's not clear what we've learned, because there was no clear quantitative goal at the start. We need to define the phenomenon, the alternative explanations, and what estimates would help us distinguish among them or refine them.
+
+> TWO. What is the ideal data for achieving the goals from ONE? This must be argued using an explicit, logical or computational model of the phenomenon. Prove it. Don't appeal to intuition. Simulate or deduce. Yes, everything will depend upon assumptions. But a conclusion that doesn't depend upon assumptions is rarely of value. Data themselves are insufficient.
+
+> THREE. What data do we actually have? What data can we acquire? How are these data sources different from the ideal on TWO? What is missing? Which proxies exist? How does error creep in? What are the causes of the missing data and measurement error? Is there selection bias? Nearly always. So model it as well. These are generative modeling assumptions, and we need them for the next part.
+
+> FOUR. Is there a statistical way to use TWO and THREE to learn about ONE? Again, this must be demonstrated logically. Ad hoc, non-generative estimators can work if you get lucky, but their track record is very poor. Prove the analysis will work on synthetic data or otherwise do your best to describe the problems that concern you. But the usual tactic of "we cannot exclude confounding but here are the associations and we want to base policy on the notion they are causal" is neither justifiable nor ethical."
+
+### Science before Statistics
+
+Richard McElreath on [How to choose variables for models](https://www.youtube.com/watch?v=KNPYUVmY3NM)

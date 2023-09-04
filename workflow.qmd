@@ -1,0 +1,36 @@
+# Workflow {.unnumbered}
+
+### The Bible
+[The Turing Way handbook to reproducible, ethical and collaborative data science](https://the-turing-way.netlify.app)
+
+### Overview
+
+SQL, R or Python for scripts
+
+Git for version control
+
+R/Python notebooks for development
+
+All analysis gets an identifier (DOI)
+
+Research shared openly (NHS website, MedRxiv)
+
+### Questions
+
+How are procedures / code / analysis stored centrally at NHSG?
+
+Can we get Gitlab (what do NHSR folks recommend?)
+
+How does testing and code review work at NHSG?
+
+### Record Keeping
+
+Keep daily tasks log to evaluate time allocation
+
+Keep brag sheet, we pass highlights upward fortnightly
+
+Contribute to quarterly report
+
+### Technical Details
+
+[R Workflow for Medical Research](https://hbiostat.org/rflow/)

@@ -1,0 +1,21 @@
+# Networked Data Lab Overview {.unnumbered}
+
+### Grant
+Our Grampian Networked Data Lab has been funded by The Health Foundation for £900,000 and is running through 2026.  
+
+### Goal
+The Health Foundation has created analytics teams embedded at five local NHSes across the UK (Grampian, Leeds, Liverpool, Northwest London and Wales). These teams make up the Networked Data Lab. The teams link large-scale, high-security health data, then create open software tools and analysis to help national and local leaders improve care.  
+
+### Grampian Team
+The NDL team funded by this grant are Jess Butler, Raul, Michael Lackenby, and Project Manager. NHS Grampian has allocated Health Intelligence staff to this project as well: Corri Black and Frank Popham.  
+[Website](https://www.health.org.uk/funding-and-partnerships/our-partnerships/the-networked-data-lab)  
+
+### Health Foundation Team
+The Networked Data Lab project is run by Cham and Hannah Knight
+
+### Related work
+Aberdeen's Health Data Research Collaborative
+Funded by NIHR, National Institute for Health and Care Research for £5M  
+Running through 2028  
+Team: Martin Murchie, Shantini Paranjothy, Michael Lackenby, Helen  
+[Website](https://www.nihr.ac.uk/explore-nihr/support/health-determinants-research-collaborations.htm)

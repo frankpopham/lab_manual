@@ -1,0 +1,20 @@
+# Publications {.unnumbered}
+
+[Improving children and young people’s mental health services](https://www.health.org.uk/publications/reports/improving-children-and-young-peoples-mental-health-services)  
+  
+[Inequalities in children’s mental health care: analysis of routinely collected data on prescribing and referrals to secondary care](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04438-5)  
+  
+[Assessing the impact of COVID-19 on the clinically extremely vulnerable population](https://www.health.org.uk/publications/reports/assessing-the-impact-of-covid-19-on-the-clinically-extremely-vulnerable-population)  
+  
+[The clinically extremely vulnerable to COVID: Identification and changes in healthcare while self-isolating (shielding) during the coronavirus pandemic](https://www.medrxiv.org/content/10.1101/2021.09.09.21263026v1)
+
+### Interactive Websites
+
+[Poverty and emergency hospital admissions](https://jessbutler.github.io/emergency_admissions/)  
+  
+[Overcrowding and vaccine needs](https://jessbutler.github.io/social_distancing/)  
+  
+[Funding in priority neighbourhoods](https://jessbutler.github.io/priority_neighbourhoods/)
+
+::: {#refs}
+:::

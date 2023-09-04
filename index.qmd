@@ -1,0 +1,13 @@
+# Welcome {.unnumbered}
+
+We've gathered up best practice for data science in the NHS. Use the menu on the left to navigate.
+
+### Our guiding principles 
+
+Our team follows the Government's recommendations on [Modern, open working methods for NHS data](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis#modern-open-working-methods-for-nhs-data-analysis)  
+
+- Build, don't buy
+- Analysts are coders
+- Work by reproducible analytical pipelines
+- Open code, analysis and research
+- Grow talent and create a modern profession
