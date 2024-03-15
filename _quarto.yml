@@ -6,8 +6,8 @@ book:
   title: "Grampian Networked Data Lab"
   author: 
     - Jess Butler, Lead Data Scientist
-    - Whoever else
-  #date: "04/08/2023"
+    - Frank Popham, Senior Specialist Analyst
+  date: today
   chapters:
     - index.qmd
     - project.qmd

@@ -3,8 +3,7 @@
 ### Public Health Intelligence Team
 Corri Black, Director, Aberdeen Centre Health Data Science  
 Jessica Butler, Lead Data Scientist  
-Frank Popham, Senior Data Scientist  
-Andrea Canale, Senior Data Engineer  
+Frank Popham, Senior Specialist Analyst 
 Richard Slessor, Senior Analyst  
 Pamela Lowbridge, Senior Analyst  
 Andrea Gilmartin, Researcher  
